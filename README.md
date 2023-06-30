@@ -7,6 +7,9 @@ Dispositivo IOT para monitoramento da saúde.
 
 ![image](https://github.com/WelliRigo/ESP32-saude/assets/23012528/fabc26f2-03f4-49c1-ae1c-1b6114068001)
 
+![image](https://github.com/WelliRigo/ESP32-saude/assets/23012528/e8ab7a01-3064-4d21-a041-c4ce0ca369d0)
+
+
 Integrado ao Blynk
 
 ![image](https://github.com/WelliRigo/ESP32-saude/assets/23012528/ce8ff09c-5d33-4308-a079-1d4edd6ffcf4)
